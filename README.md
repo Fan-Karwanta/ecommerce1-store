@@ -21,3 +21,4 @@ Key Features:
 - MySQL + Prisma + PlanetScale
 
 Website by: Fan Karwanta
+Visit: https://fankarwanta.com
