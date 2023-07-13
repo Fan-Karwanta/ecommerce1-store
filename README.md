@@ -20,3 +20,4 @@ Key Features:
 - Stripe webhooks
 - MySQL + Prisma + PlanetScale
 
+Website by: Fan Karwanta
