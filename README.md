@@ -1,5 +1,7 @@
 # Full Stack E-Commerce + Dashboard & CMS: Next.js 13 App Router, React, Tailwind, Prisma, MySQL, 2023
 
+# Client Side of the E-commerce Bundle
+
 Key Features:
 
 - We will be using Shadcn UI for the Admin!
@@ -21,4 +23,5 @@ Key Features:
 - MySQL + Prisma + PlanetScale
 
 Website by: Fan Karwanta
+
 Visit: https://fankarwanta.com
