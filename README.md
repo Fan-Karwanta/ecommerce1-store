@@ -21,6 +21,7 @@ Key Features:
 - Stripe checkout
 - Stripe webhooks
 - MySQL + Prisma + PlanetScale
+- Huge advantage for having a dashboard.
 
 Website by: Fan Karwanta
 
