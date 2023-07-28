@@ -1,7 +1,7 @@
 # Full Stack E-Commerce + Dashboard & CMS: Next.js 13 App Router, React, Tailwind, Prisma, MySQL, 2023
 
 # Client Side of the E-commerce Bundle
-This is the client-side of the Admin and Client bundle
+This is the client-side of the Admin and Client bundle (Front_End)
 Of the Ecommerce-Store Series.
 
 
