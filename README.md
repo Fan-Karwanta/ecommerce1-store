@@ -27,5 +27,6 @@ Key Features:
 - Huge advantage for having a dashboard.
 
 Website by: Fan Karwanta
+You can close or fork this.
 
 Visit: https://fankarwanta.com
