@@ -30,3 +30,5 @@ Website by: Fan Karwanta
 You can close or fork this.
 
 Visit: https://fankarwanta.com
+
+2023 All Rights Reserved.
