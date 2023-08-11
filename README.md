@@ -30,4 +30,5 @@ You can close or fork this.
 
 Visit: https://fankarwanta.com
 
+Happy Coding :).
 2023 All Rights Reserved.
