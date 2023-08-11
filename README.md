@@ -4,8 +4,6 @@
 This is the client-side of the Admin and Client bundle (Front_End)
 Of the Ecommerce-Store Series.
 
-WELCOME 
-
 Key Features:
 
 - We will be using Shadcn UI for the Admin!
